@@ -1,0 +1,63 @@
+{
+  "list": [
+    {
+      "id": "Beginner_Package_001",
+      "title": { "ko": "초보자 패키지1", "en": "Beginner Package 1" },
+      "desc": { "ko": "토마토 5개와 당근 5개", "en": "5 Tomatoes & 5 Carrots" },
+      "start": "2025-11-02",
+      "end": "2026-11-02",
+      "cost": { "Coin": 100, "Reputation": 0, "Crystal": 0 },
+      "reward": {
+        "fridge": [
+          { "item": 0, "qty": 5 },
+          { "item": 8, "qty": 5 }
+        ]
+      }
+    },
+    {
+      "id": "Beginner_Package_002",
+      "title": { "ko": "초보자 패키지2", "en": "Beginner Package 2" },
+      "desc": { "ko": "냥냥드롭 5개", "en": "5 Nyang Drops" },
+      "start": "2025-11-02",
+      "end": "2026-04-02",
+      "cost": { "Coin": 1000, "Reputation": 0, "Crystal": 0 },
+      "reward": {
+        "NyangDrop": { "qty": 5, "rarity": "Common", "cnt": 1 }
+      }
+    },
+    {
+      "id": "CoinEnergy",
+      "title": { "ko": "코인 에너지", "en": "Coin Energy" },
+      "desc": { "ko": "코인을 에너지로 교환합니다.", "en": "Exchange Crystals for Coins" },
+      "start": "2026-01-27",
+      "end": "2026-04-20",
+      "cost": { "Coin": 0, "Reputation": 0, "Crystal": 50 },
+      "reward": { "Coin": { "qty": 10000 } }
+    },
+    {
+      "id": "MegaBox_Bug_Compensation",
+      "title": { "ko": "메가상자 확률이 이상한 것에 사과드립니다.", "en": "Compensation for Mega Box Probability Bug" },
+      "desc": { "ko": "메가상자 확률이 이상한 것에 사과드립니다. 자세한 내용은 뉴스탭을 확인해주세요.", "en": "We apologize for the Mega Box probability bug. Please check the news tab for details." },
+      "start": "2026-02-10",
+      "end": "2026-05-04",
+      "cost": { "Coin": 0, "Reputation": 0, "Crystal": 0 },
+      "reward": {
+        "NyangDrop": { "qty": 1, "rarity": "GOD", "cnt": 8 },
+        "MegaBox": { "qty": 10 }
+      }
+    },
+    {
+      "id": "Special_Package_004",
+      "title": { "ko": "Happy Birthday 이시훈", "en": "Free 2222 Coins" },
+      "desc": { "ko": "Now claim these freebies", "en": "Back-to-school celebration." },
+      "start": "2026-03-19",
+      "end": "2026-03-23",
+      "cost": { "Coin": 0, "Reputation": 0, "Crystal": 0 },
+      "reward": { 
+        "Coin": { "qty": 120320 }, 
+        "Affection": { "qty": 1.20320 },
+        "Crystal": { "qty": 20 } 
+      }
+    }
+  ]
+}

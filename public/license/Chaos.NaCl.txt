@@ -1,0 +1,2 @@
+Chaos.NaCl (public domain / MIT portions)
+https://github.com/CodesInChaos/Chaos.NaCl

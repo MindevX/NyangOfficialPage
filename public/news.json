@@ -1,0 +1,108 @@
+{
+  "newsList": [
+    {
+      "id": 1,
+      "t": {
+        "ko": "냥냥식당타이쿤 2026 로드맵",
+        "en": "NyangNyang Restaurant Tycoon 2026 Roadmap"
+      },
+      "c": {
+        "ko": "사랑스러운 '냥냥 식당 타이쿤'의 유저분들께,\n\n안녕하세요, 냥냥 식당 타이쿤 개발팀입니다.\n\n 저희 게임에 대한 변함없는 사랑과 깊은 관심에 진심으로 감사드립니다. \n 이번엔 냥냥식당타이쿤 2026 로드맵에 대해서 말씀드리겠습니다. \n\n 1. 다음 업데이트는 2026년 2월 초입니다. 앞으로도 남은 시간동안 열심히 만들어 오겠습니다. 모든 플레이어는 업데이트 후 데이터 초기화가 예상 되기에 상점에서 무료 식당상자 5개랑 기타 재화 여러개를 획득할 수 있습니다. \n 또한 스포를 하자면 게임슬롯 시스템과, 장비 상점이 등장하며 냥이드롭이 등장합니다. \n\n 2. 그 다음 업데이트는 5월 이후에 등장하며 소규모 업데이트일 예정입니다. 추가 소식이 생기면 이 밑에 적어놓겠습니다! \n *****추가 사항***** \n -이 게임은 앞으로는 한국어랑 영어가 제공될 예정입니다. \n\n3. 그 다음 업데이트는 언제 나올 지 모르겠으나 대략 8월 쯤 등장합니다. 이 버전은 중규모 정도 수준일 것이며 추가 소식이 생기면 이 밑에 적어놓겠습니다! \n *****추가 사항***** \n\n\n 4. 그 다음 업데이트는 12월에 있을 것이며 대규모일 예정이며 마찬가지로 추가 소식이 생기면 이 밑에 적어놓겠습니다! \n *****추가 사항***** \n\n\n 지금까지 냥냥식당타이쿤 2026로드맵이었습니다. 앞으로도 많은 소식 기다려주세요. \n\n\n --냥냥식당타이쿤 총괄 책임자-",
+        "en": "Dear players of 'NyangNyang Restaurant Tycoon',\n\nHello, this is the NyangNyang Restaurant Tycoon development team.\n\nThank you sincerely for your continued love and interest in our game.\nToday, we would like to share the 2026 roadmap for NyangNyang Restaurant Tycoon.\n\n1. The next update is scheduled for early February 2026. We will continue working hard until then. Since data reset is expected after the update, all players will be able to receive 5 free restaurant boxes and various in-game currencies from the shop.\n Here's a little sneak peek: a game slot system and equipment shop will be added, along with Nyang Drops.\n\n2. The following update will arrive after May and will be a small update. Additional details will be announced below when available.\n***** Additional Info *****\n- The game will support Korean and English languages.\n\n3. The next update is expected around August, though the exact date is unknown. It will be a medium-sized update. More information will be added below.\n***** Additional Info *****\n\n4. The next update will be in December and will be a large-scale update. More information will be added below as well.\n***** Additional Info *****\n\nThis concludes the 2026 roadmap for NyangNyang Restaurant Tycoon. Please look forward to more news.\n\n-- NyangNyang Restaurant Tycoon Director --"
+      },
+      "d": "2026-01-08",
+      "g": "nyangnyang"
+    },
+    {
+      "id": 2,
+      "t": {
+        "ko": "[냥냥 식당 타이쿤] 신규 알파 업데이트 0.0.1 버전 안내",
+        "en": "[NyangNyang Restaurant Tycoon] Alpha Update 0.0.1 Notice"
+      },
+      "c": {
+        "ko": "사랑스러운 '냥냥 식당 타이쿤'의 유저분들께,\n\n안녕하세요, 냥냥 식당 타이쿤 개발팀입니다.\n\n저희 게임에 대한 변함없는 사랑과 깊은 관심에 진심으로 감사드립니다. 이번에 새로운 소식과 함께 0.0.1 버전 업데이트가 출시되었습니다. 이번 업데이트는 신규 콘텐츠 추가와 함께 시스템 안정성을 높이는 데 주력하였습니다.\n\n---\n\n### [0.0.1 업데이트 패치 노트]\n\n**1. 신규 콘텐츠 및 시스템 추가**\n* **레시피 및 가구:** 신규 레시피와 바나나 식재료가 추가되었으며, 새로운 가구(테이블, 전자레인지)가 업데이트되었습니다.\n* **상점 및 경제:** 뉴스와 상점 기능이 도입되어 장비를 구매하거나 업그레이드할 수 있습니다. 또한 크리스탈 재화와 냥냥패스(2개월 주기 초기화)가 추가되었습니다.\n* **수집 및 보상:** 메가상자, 냥냥드롭 시스템이 추가되었으며, 매일 자정에 3개씩 갱신되는 퀘스트 시스템이 도입되었습니다.\n* **편의 기능:** 5개의 저장 슬롯 사용이 가능해졌으며, 설정 메뉴를 통해 사운드 조절, 확률 조회, 슬롯 변경이 가능합니다.\n\n**2. 버그 수정 및 개선 사항**\n* **보안 강화:** 기기 시간 조작을 통한 무료 보상 무한 획득 버그를 수정하였으며, 외부 기기 연결을 통한 DB 데이터 접근 보안을 강화하였습니다.\n* **UI 안정화:** 무료 보상 획득 후 창을 닫을 때 UI가 사라지지 않던 현상을 수정하였습니다.\n* **시스템 개선:** 튜토리얼을 개편하였으며, 보상 획득 중 앱을 재시작해도 다시 보상을 수령할 수 있도록 로직을 개선하였습니다.\n\n---\n\n### ⚠️ 중요: 데이터 초기화 및 설치 관련 안내\n\n이번 업데이트 과정에서 보안 및 기술적 이슈로 인해 **기존 플레이 데이터가 모두 초기화**되었습니다. 또한, 기존 앱이 설치된 상태에서는 패키지 충돌로 인해 업데이트가 되지 않을 수 있으니, **기존 앱을 삭제 후 재설치**해주시기 바랍니다.\n\n데이터 손실로 실망하셨을 유저분들을 위해 아래와 같은 보상을 준비했습니다.\n* 보상 내용: 5 메가상자, 10,000 코인, 0.00030 호감도, 50 크리스탈, 랜덤 냥냥드롭 10개\n\n앞으로도 더욱 발전하는 냥냥 식당 타이쿤이 되겠습니다. 감사합니다.\n\n**- 냥냥 식당 타이쿤 총괄 매니저 드림 -**",
+        "en": "Dear players of 'NyangNyang Restaurant Tycoon',\n\nHello, this is the NyangNyang Restaurant Tycoon development team.\n\nThank you for your continued love and interest in our game. We are pleased to announce the release of version 0.0.1 with new content and improved system stability.\n\n---\n\n### [0.0.1 Patch Notes]\n\n**1. New Content & Systems**\n* **Recipes & Furniture:** New recipes and banana ingredients have been added, along with new furniture (tables and Stove).\n* **Shop & Economy:** News and shop systems have been introduced, allowing equipment purchases and upgrades. Crystal currency and the Nyang Pass (reset every 2 months) have been added.\n* **Collection & Rewards:** Mega Boxes and Nyang Drop systems have been added, along with daily quests refreshed at midnight.\n* **Convenience:** Five save slots are now available. Sound settings, probability info, and slot switching are supported.\n\n**2. Bug Fixes & Improvements**\n* **Security:** Fixed exploit using device time manipulation and strengthened database access security.\n* **UI Stability:** Fixed issue where UI did not close properly after claiming free rewards.\n* **System:** Tutorial reworked and reward logic improved so rewards can be reclaimed after restart.\n\n---\n\n### ⚠️ Important: Data Reset & Installation Notice\n\nDue to security and technical issues, **all previous play data has been reset**. If you have the previous app installed, please delete it before reinstalling due to package conflicts.\n\nCompensation:\n* 5 Mega Boxes, 10,000 Coins, 0.00030 Affection, 50 Crystals, 10 Random Nyang Drops\n\nWe will continue to improve NyangNyang Restaurant Tycoon. Thank you.\n\n**- NyangNyang Restaurant Tycoon Manager -**"
+      },
+      "d": "2026-01-23",
+      "g": "nyangnyang"
+    },
+    {
+      "id": 3,
+      "t": {
+        "ko": "방금전의 사고에 대해서",
+        "en": "Regarding the Recent Incident"
+      },
+      "c": {
+        "ko": "유저 여러분 아까전 대형 사고가 있었습니다. \n 이에 대해 죄송하게 생각합니다. \n 어제 배포된 ui에 버그가 있어서 수정판을 출시했으나 거기서는 또 다른 ui 버그가 존재했었고 그 후에 수정판은 정상적이었으나 그 수정판 출시 사이에 들어간 유저들이 이번 마지막 수정판과 함께 서버적 오류로 일시로 무한 다운로드 페이지가 뜨고 있습니다. \n\n\n 매우 죄송하며 사과 보상으로 다음과 같이 준비했습니다. \n 1.어제 배포된 ui버그에 관한 보상: 메가상자 1개, 냥냥드롭 전설 분열 2개를 1개 지급 \n 2.아까 배포된 ui버그에 관한 보상: 냥냥패스XP 1000,  냥냥드롭 Common 분열 1개를 5개 지급 \n 3.접속 불가능한 버그에 관한 보상: 냥냥드롭 Common 분열 2개를 5개 지급 \n\n 보상이 지급되기 까지 최대 1시간 까지 소유될 수 있으며 서버 버그로 인한 비접속은 시스템상 12시간(버전 데이터를 12시간 마다 요청하기에)후에 자동으로 풀릴 예정입니다. \n 앞으로는 이런 사고가 없도록 주의하겠습니다. \n 대단히 죄송합니다.",
+        "en": "Dear players, Critical Issue occurred earlier today.\nWe sincerely apologize for this situation.\nA UI bug was found in yesterday’s release and a fix was deployed, but another UI bug appeared. Although the final fix worked correctly, players who entered the game between updates are experiencing a server error that causes an infinite download screen.\n\nWe deeply apologize and prepared the following compensation:\n1. Compensation for yesterday’s UI bug: 1 Mega Box, 1 Legendary Nyang Drop (2 split)\n2. Compensation for today’s UI bug: 1000 Nyang Pass XP, 5 Common Nyang Drops (1 split)\n3. Compensation for login failure bug: 5 Common Nyang Drops (2 split)\n\nRewards may take up to 1 hour to be delivered. Server-related login issues will be resolved automatically after 12 hours due to version sync intervals.\nWe will work harder to prevent such incidents in the future.\nWe sincerely apologize."
+      },
+      "d": "2026-01-24",
+      "g": "nyangnyang"
+    },
+    {
+      "id": 4,
+      "t": {
+        "ko": "메가상자 버그에 관해",
+        "en": "Regarding the Mega Box Bug"
+      },
+      "c": {
+        "ko": "유저 여러분 메가상자 시스템에 문제가 있었습니다. \n 이에 대해 죄송하게 생각합니다. \n 메가상자는 아이템 수가 동일한 확률이 아닌 정해진 확률로 아이템이 나오는 시스템이었으나 그 확률이 잘못 설정되어 있었습니다. 진짜 확률은 모두 동일한 확률로 등장합니다. \n\n\n 매우 죄송하며 사과 보상으로 다음과 같이 준비했습니다. \n 1.메가상자 버그에 관한 보상: 메가상자 10개, 냥냥드롭 GOD 분열 8개를 1개 지급 \n\n 보상이 지급되기 까지 최대 1시간 까지 소유될 수 있으며 앞으로는 이런 사고가 없도록 주의하겠습니다. \n 대단히 죄송합니다.",
+        "en": "Dear Players,\nWe discovered an issue with the Mega Box system and sincerely apologize.\nThe Mega Box was intended to use fixed probabilities rather than equal chances for each item, but the probabilities were set incorrectly.\nAs a result, all items were appearing with the same probability.\n\nWe are very sorry for this mistake and have prepared the following compensation:\n1. Compensation for the Mega Box bug: 10 Mega Boxes, 1 NyangNyang Drop GOD Fragment (x8)\n\nThe rewards may take up to 1 hour to be delivered to your account.\nWe will do our best to prevent this from happening again.\nWe sincerely apologize for the inconvenience."
+      },
+      "d": "2026-02-10",
+      "g": "nyangnyang"
+    },
+    {
+      "id": 5,
+      "t": {
+        "ko": "라이선스 페이지 오픈 안내",
+        "en": "Regarding the Mega Box Bug"
+      },
+      "c": {
+        "ko": "유저 여러분, 라이선스 페이지가 오픈되었습니다. \n https://nyangofficialpage.pages.dev/#/license 해당 사이트로 접속하여 라이선스를 확인해주시기 바랍니다. \n 현재 기술적 이슈로 앱에 라이선스 보기 버튼을 추가할 수 없기에 확률 보기를 누른 다음에 밑으로 내려서 라이선스를 눌러주시기 바랍니다. \n 감사합니다.",
+        "en": "Dear Players,\nWe discovered an issue with the Mega Box system and sincerely apologize.\nThe Mega Box was intended to use fixed probabilities rather than equal chances for each item, but the probabilities were set incorrectly.\nAs a result, all items were appearing with the same probability.\n\nWe are very sorry for this mistake and have prepared the following compensation:\n1. Compensation for the Mega Box bug: 10 Mega Boxes, 1 NyangNyang Drop GOD Fragment (x8)\n\nThe rewards may take up to 1 hour to be delivered to your account.\nWe will do our best to prevent this from happening again.\nWe sincerely apologize for the inconvenience."
+      },
+      "d": "2026-02-19",
+      "g": "nyangnyang"
+    },
+    {
+      "id": 6,
+      "t": {
+        "ko": "라이선스 정보",
+        "en": "License Information"
+      },
+      "c": {
+        "ko": "Noto Sans KR\n\nCopyright 2014-2021 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is copied below, and is also available with a FAQ at:\nhttps://openfontlicense.org\n\n-----------------------------------------------------------\nSIL OPEN FONT LICENSE Version 1.1 - 26 February 2007\n-----------------------------------------------------------\n\nPREAMBLE\nThe goals of the Open Font License (OFL) are to stimulate worldwide\ndevelopment of collaborative font projects, to support the font creation\nefforts of academic and linguistic communities, and to provide a free and\nopen framework in which fonts may be shared and improved in partnership\nwith others.\n\nThe OFL allows the licensed fonts to be used, studied, modified and\nredistributed freely as long as they are not sold by themselves. The\nfonts, including any derivative works, can be bundled, embedded,\nredistributed and/or sold with any software provided that any reserved\nnames are not used by derivative works. The fonts and derivatives,\nhowever, cannot be released under any other type of license. The\nrequirement for fonts to remain under this license does not apply\nto any document created using the fonts or their derivatives.\n\nDEFINITIONS\n\"Font Software\" refers to the set of files released by the Copyright\nHolder(s) under this license and clearly marked as such. This may\ninclude source files, build scripts and documentation.\n\n\"Reserved Font Name\" refers to any names specified as such after the\ncopyright statement(s).\n\n\"Original Version\" refers to the collection of Font Software components as\ndistributed by the Copyright Holder(s).\n\n\"Modified Version\" refers to any derivative made by adding to, deleting,\nor substituting -- in part or in whole -- any of the components of the\nOriginal Version, by changing formats or by porting the Font Software to a\nnew environment.\n\n\"Author\" refers to any designer, engineer, programmer, technical\nwriter or other person who contributed to the Font Software.\n\nPERMISSION & CONDITIONS\nPermission is hereby granted, free of charge, to any person obtaining\na copy of the Font Software, to use, study, copy, merge, embed, modify,\nredistribute, and sell modified and unmodified copies of the Font\nSoftware, subject to the following conditions:\n\n1) Neither the Font Software nor any of its individual components,\nin Original or Modified Versions, may be sold by itself.\n\n2) Original or Modified Versions of the Font Software may be bundled,\nredistributed and/or sold with any software, provided that each copy\ncontains the above copyright notice and this license. These can be\nincluded either as stand-alone text files, human-readable headers or\nin the appropriate machine-readable metadata fields within text or\nbinary files as long as those fields can be easily viewed by the user.\n\n3) No Modified Version of the Font Software may use the Reserved Font\nName(s) unless explicit written permission is granted by the corresponding\nCopyright Holder. This restriction only applies to the primary font name as\npresented to the users.\n\n4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font\nSoftware shall not be used to promote, endorse or advertise any\nModified Version, except to acknowledge the contribution(s) of the\nCopyright Holder(s) and the Author(s) or with their explicit written\npermission.\n\n5) The Font Software, modified or unmodified, in part or in whole,\nmust be distributed entirely under this license, and must not be\ndistributed under any other license. The requirement for fonts to\nremain under this license does not apply to any document created\nusing the Font Software.\n\nTERMINATION\nThis license becomes null and void if any of the above conditions are\nnot met.\n\nDISCLAIMER\nTHE FONT SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND,\nEXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF\nMERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT\nOF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE\nCOPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,\nINCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL\nDAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING\nFROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM\nOTHER DEALINGS IN THE FONT SOFTWARE",
+        "en": "License information is provided in the Korean section."
+      },
+      "d": "2026-02-19",
+      "g": "nyangnyang"
+    },
+    {
+      "id": 7,
+      "t": {
+        "ko": "라이선스 정보",
+        "en": "License Information"
+      },
+      "c": {
+        "ko": "SQLite4Unity3d\n\nThe MIT License (MIT)\n\nCopyright (c) 2014 Roberto Huertas\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.",
+        "en": "License information is provided in the Korean section."
+      },
+      "d": "2026-02-24",
+      "g": "nyangnyang"
+    },
+    {
+      "id": 8,
+      "t": {
+        "ko": "라이선스 정보",
+        "en": "License Information"
+      },
+      "c": {
+        "ko": "Chaos.NaCl \n Chaos.NaCl (public domain / MIT portions) \n https://github.com/CodesInChaos/Chaos.NaCl",
+        "en": "License information is provided in the Korean section."
+      },
+      "d": "2026-02-24",
+      "g": "nyangnyang"
+    }
+  ]
+}
