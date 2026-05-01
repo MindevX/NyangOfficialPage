@@ -147,17 +147,17 @@ const Store = () => {
                       필요 재화
                     </h4>
                     <div className="flex flex-wrap gap-2 text-xs">
-                      {item.cost.Coin > 0 && (
+                      {(
                         <span className="bg-yellow-100 text-yellow-800 px-2.5 py-1 rounded-full font-medium">
                           🪙 코인: {item.cost.Coin.toLocaleString()}
                         </span>
                       )}
-                      {item.cost.Reputation > 0 && (
+                      {(
                         <span className="bg-sky-100 text-sky-800 px-2.5 py-1 rounded-full font-medium">
                           ⭐ 평판: {item.cost.Reputation.toLocaleString()}
                         </span>
                       )}
-                      {item.cost.Crystal > 0 && (
+                      {(
                         <span className="bg-purple-100 text-purple-800 px-2.5 py-1 rounded-full font-medium">
                           💎 크리스탈: {item.cost.Crystal.toLocaleString()}
                         </span>
